@@ -1,0 +1,1 @@
+{\n  "name": "my-electron-app",\n  "version": "1.0.0",\n  "main": "main.js",\n  "scripts": {\n    "start": "electron ."\n  },\n  "devDependencies": {\n    "electron": "^12.0.0"\n  }\n}
